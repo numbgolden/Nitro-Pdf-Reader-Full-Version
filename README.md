@@ -240,4 +240,4 @@ This repository serves as the official landing page for Nitro PDF Reader. The so
 **Get the most recent version of Nitro PDF Reader today!**
 
 ---
-**Last updated:** 2026-10-24 16:24:09 UTC
+**Last updated:** 2026-10-24 19:11:41 UTC
